@@ -1,0 +1,3 @@
+colorgram.py==1.2.0
+prettytable==2.5.0
+replit==3.2.4
